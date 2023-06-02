@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/PedroPog">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PedroPog&show_icons=true&theme=transparent&includ_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPog&layout=donut&lang_count=16&theme=transparent"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PedroPog&lang_count=50&show_icons=true&theme=transparent&includ_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPog&layout=donut&lang_count=50&theme=transparent"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
