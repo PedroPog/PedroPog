@@ -16,8 +16,8 @@
    <a href="https://github.com/PedroPog/App_Calculadora_IMC"><img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"></a>
   <a href="https://logintestefire.netlify.app/login"><img style align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></a>   
    <a href="https://github.com/PedroPog/ASPnet-projeto"><img style align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></a>
+   <a href="https://github.com/PedroPog/react-projeto"><img style align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg"></a>
   <hr>
-  <a href="https://github.com/PedroPog/react-projeto"><img style align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg"></a>
-  <hr>  
+   
    
 </div> 
