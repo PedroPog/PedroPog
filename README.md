@@ -3,7 +3,9 @@
 Desenvolvedor **Full Stack** focado em aplicações web com **TypeScript / Angular** e APIs com **Java / Spring Boot**, além de experiência com desenvolvimento mobile (**Flutter / Android**) e bancos de dados (**PostgreSQL / Firebase**).
 
 - 💼 Atualmente trabalhando na **Remarca Automação**
-- 🎓 Estudante de tecnologia na **Fatec**
+- 🎓 Estudante de Jogos Digitas na **Fatec Carapicuiba**
+- 🎓 Formado em Desenvolvimento de Sistemas na **Etec basilides de godoy**
+- 🎓 Formado em Manutenção e Suporte em Informática na **Etec Jaragua**
 - 📍 São Paulo, Brasil
 
 ---
